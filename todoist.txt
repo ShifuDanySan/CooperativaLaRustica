@@ -1,0 +1,3 @@
+Herramienta utilizada para gestionar las tareas
+del proyecto.
+https://todoist.com/app/project/2267598360
