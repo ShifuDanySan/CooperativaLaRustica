@@ -1,0 +1,7 @@
+. Se realizaron las tareas de Todoist correspondientes al día de la
+  fecha.
+. Se creó una carpeta en Drive para el manejo de Inventario.
+. Se creó una Sección correspondiente al Sistema de Inventario en
+  Todoist.
+. Se pensó en una primera aproximación a los objetivos del Sistema
+  De Inventarios.
