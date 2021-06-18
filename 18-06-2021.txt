@@ -1,0 +1,7 @@
+En el día de la fecha se realizó capacitación de DOP
+(Diagrama de Operaciones del Proceso).
+La implementación de esta metodología grafica, permitirá visualizar
+de forma clara las distintas tareas y mecanismos de control que
+intervienen en la fabricación de cada producto ofrecido por la
+cooperativa La Rústica, a fin de mejorar la eficiencia de los procesos
+productivos y facilitar el ingreso de la empresa en la industria 4.0.
