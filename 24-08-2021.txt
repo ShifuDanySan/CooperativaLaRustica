@@ -1,0 +1,4 @@
+Desde la semana del 16-08-2021 al 20-08-2021 se trabajó en la presentación
+de una propuesta de sistema, a modo de Mockups, y se comenzó un prototipo
+de sistema, a modo de propuesta, para un posible futuro desarrollo del
+mismo, a un nivel general, en el que se está trabajando a día de la fecha.
