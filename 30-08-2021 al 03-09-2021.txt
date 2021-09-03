@@ -1,0 +1,3 @@
+Se agregó funcionalidad al modulo.
+Un nuevo usuario debe tener la aprobación de 3 miembros distintos de la
+Comisión Directiva para convertirse en un socio activo de la Cooperativa.
